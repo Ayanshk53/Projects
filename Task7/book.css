@@ -1,0 +1,38 @@
+body{
+	background: black;
+}
+#header{
+	background: url(header_left.jpg) no-repeat center;
+	height: 200px;	
+}
+#header h1{
+	color: #fff;
+	padding-left: 310px;
+	padding-top: 120px;
+}
+#menu{
+	padding-left: 280px;
+	margin: 0;
+}
+#menu ul{
+	margin: 0;
+	list-style: none;
+}
+#menu ul li{
+	display: inline;
+	padding: 12px;
+}
+#menu ul li a{
+	text-decoration: none;
+	color: #fff;
+}
+#menu li:hover{
+	background-color: #ff9c47;
+}
+#content{
+	background: #555555;
+	padding-left:290px ;
+}
+#photo{
+	background: url(firefox.jpg) no-repeat left;
+}

@@ -1,0 +1,54 @@
+body{
+	background: url(bg_line.gif) repeat-y center;
+	background-color: #697276;
+}
+#container{
+	background: url(bgWoman.jpg) no-repeat center;
+	height: 260px;
+	margin: 0 auto;
+	padding-top: 0px;
+}
+#header{
+	padding-left: 410px;
+	line-height: 0px;
+	padding-top: 20px;
+	font-family: Comic Sans MS;
+}
+#content{
+	padding-left: 380px;
+	padding-right: 520px;
+	padding-top: 90px;
+	color: #8c9a9b;
+
+}
+#menu{
+	
+	margin-left: 730px;
+	width: 200px;
+	position: absolute;
+	top: 210px;
+	left: 0;	
+}
+#menu ul{
+	margin: 0;
+	padding-left: 21px;
+	list-style: none;
+	margin-left: 10px;
+}
+#menu ul li{
+	padding: 12px 0px ;
+}
+#menu ul li a{
+	text-decoration: none;
+	color: #fff;
+}
+#menu li:hover{
+	background-color: #ccd7d9;
+}
+
+
+
+
+
+
+

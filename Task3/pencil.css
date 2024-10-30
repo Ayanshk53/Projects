@@ -1,0 +1,11 @@
+#container{
+	background: #fff;
+}
+#header{
+	text-align: right;
+	padding-top: 15px;
+	font-family: bahnschrift;
+}
+#air{
+	background: url(hdr.jpg);
+}
